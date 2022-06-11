@@ -26,4 +26,4 @@
 
 - 📫 How to reach me: 
   - alvaradojasondev@outlook.com
-  - linkedin.com/in/jason-alvarado
+  - https://linkedin.com/in/jason-alvarado
